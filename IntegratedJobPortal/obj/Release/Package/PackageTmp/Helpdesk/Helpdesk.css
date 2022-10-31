@@ -1,0 +1,88 @@
+﻿.open-button {
+    background-image: url(../Helpdesk/popupicn1.png);
+    background-color: transparent;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    opacity: 0.8;
+    position: fixed;
+    bottom: 23px;
+    right: 45px;
+    width: 100px;
+    height: 80px;
+}
+
+    .form-container .btn:hover, .open-button:hover {
+        opacity: 1;
+    }
+
+.form-popup {
+    border: none;
+    display: none;
+    position: fixed;
+    bottom: 0;
+    right: 5px;
+    /* border: 2px solid #07a5cb; */
+    z-index: 9;
+    background-color: #fff;
+    border-radius: 4px;
+}
+
+    /* .form-popup:hover {
+        border: 2px solid #ea01a8;
+    } */
+
+.form-container {
+    max-width: 100%;
+    padding: 5px 10px 10px 10px;
+    background-color: #ffffff;
+    border-radius: 0px;
+    border: 1px solid #939393;
+}
+
+label {
+   
+    margin-bottom: 0rem!important;
+}
+
+.outer {
+    background: #61e0ff;
+    height: 20px;
+    display: block;
+}
+
+.buttoncl a{
+    color: #fff;
+    background-color: #ff0101;
+    font-size: 20px;
+    padding: 4px 9px;
+    border-radius: 50%;
+    position: absolute;
+    text-align: left;
+    right: 7px;
+    top: 6px;
+    font-weight: 600;
+    border: 2px solid;
+}
+.txtfnt{font-weight: 600;
+    color: #000;
+    padding-bottom: 2px;}
+
+/* -----Dragable---- */
+
+#mydiv {
+    position: absolute;
+    z-index: 9;
+    background-color: #f1f1f1;
+    border: 1px solid #d3d3d3;
+    text-align: center;
+  }
+  
+  #hlpIframe {
+    /* padding: 10px; */
+    cursor: move;
+    z-index: 10;
+    background-color: #2196F3;
+    color: #fff;
+  }

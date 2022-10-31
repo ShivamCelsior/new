@@ -1,0 +1,42 @@
+<div class="container">
+    <h4 class="text-center">Preset -> Add Job Portal</h4>
+    
+
+
+    <form class="row g-3">
+        <div class="col-auto">
+            <label for="PortalName" >Add Portal<span class="text-danger"><b>*</b></span></label>
+            </div>
+        <div class="col-auto"><input type="text" pattern="^(?:http(s)?:\/\/)?[\w.-]+(?:\.[\w\.-]+)+[\w\-\._~:/?#[\]@!\$&'\(\)\*\+,;=.]+$" placeholder="Portal Name" [(ngModel)]="addPortalName" >
+        </div>
+        <div class="col-auto">
+            <button class="btn btn-sm btn-primary" (click)="add()" [attr.disabled]="addPortalName==''?'':null" >Add</button>
+        </div>
+        <div class="col-auto">
+            <span class="text-success">{{message}}</span>
+        </div>
+    </form>
+<hr>
+<div class="row">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Portal Name</th>
+                <th>Created By</th>
+                <th>Created Date</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let portal of portalList;">
+                    <td *ngIf="portal.PortalId==selectedPortalId"><input type="text" [(ngModel)]="selectedPortalName"></td>
+                    <td *ngIf="portal.PortalId!=selectedPortalId">{{portal.PortalName}}</td>
+                    <td >{{portal.CreateBy}}</td>
+                    <td>{{portal.CreatedDate | date:'M/d/y h:mm:ss a'}}</td>
+                    <td *ngIf="portal.PortalId==selectedPortalId"><button class="btn btn-sm btn-success" (click)="update()">Update</button></td>
+                    <td *ngIf="portal.PortalId!=selectedPortalId"><button class="btn btn-sm btn-primary" (click)="select(portal)">Edit</button></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+</div>

@@ -1,0 +1,34 @@
+<head>
+    <style type="text/css">
+        p.MsoNormal
+        {
+            margin-bottom: .0001pt;
+            font-size: 11.0pt;
+            font-family: "Calibri" , "sans-serif";
+            margin-left: 0in;
+            margin-right: 0in;
+            margin-top: 0in;
+        }
+    </style>
+</head>
+<div style="margin: 0in 0in 0pt">
+    <table style="width: 100%">
+        <tr>
+            <td>
+                <span style="mso-fareast-font-family: &quot; times new roman&quot; color: #1F497D">
+                    <hr align="left" noshade size="2" style="color: #FF9900" width="100%" />
+                </span>
+				<p class=MsoNormal>
+				<span id="mycontactbond" style='font-size:9.0pt;color:gray';><b>ContactDetails~</b></span></p><br />
+      
+                <img alt="Description: Description: Description: Description: Description: Description: cid:image001.jpg@01CAE6CF.24EB2750"
+                    height="40" src="cid:PyramidLogoId" v:shapes="Picture_x0020_2" width="195" />&nbsp;&nbsp;&nbsp;<br />
+                <p class="MsoNormal">
+				<br/>
+                    <b><span lang="EN-GB" style="font-size:9.0pt;color:#244061;
+mso-ansi-language:EN-GB">WE FIND HIDDEN TALENT <o:p></o:p></span></b>
+                </p>
+            </td>
+        </tr>
+    </table>
+</div>

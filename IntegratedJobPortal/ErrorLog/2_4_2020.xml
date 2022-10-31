@@ -1,0 +1,12 @@
+<IJP>
+  <error>
+    <errorMsg>Input string was not in a correct format.</errorMsg>
+    <stackTrace>   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer&amp; number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at IntegratedJobPortal.Controllers.IJPController.GetConinfo(String UserId, String SiteName) in E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\Controllers\IJPController.cs:line 43</stackTrace>
+    <module>IJPController</module>
+    <method>GetConinfo</method>
+    <dateTime>4/2/2020 7:19:19 PM</dateTime>
+  </error>
+</IJP>

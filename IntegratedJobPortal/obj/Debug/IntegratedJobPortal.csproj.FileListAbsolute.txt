@@ -1,0 +1,635 @@
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\ApplicationInsights.config
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\csc.exe
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\System.Collections.Immutable.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\System.Reflection.Metadata.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\vbc.exe
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\VBCSCompiler.exe
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\VBCSCompiler.exe.config
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\IntegratedJobPortal.dll.config
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\IntegratedJobPortal.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\IntegratedJobPortal.pdb
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Antlr3.Runtime.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\EntityFramework.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\EntityFramework.SqlServer.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.DependencyCollector.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.Web.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.WindowsServer.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.ApplicationInsights.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Google.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Web.Infrastructure.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Newtonsoft.Json.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Owin.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\System.Net.Http.Formatting.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Helpers.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.WebHost.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Mvc.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Optimization.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Razor.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.Deployment.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.Razor.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\WebGrease.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.DependencyCollector.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.Web.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.WindowsServer.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.ApplicationInsights.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Helpers.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Mvc.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Optimization.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Razor.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.Deployment.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.Razor.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Antlr3.Runtime.pdb
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Newtonsoft.Json.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\System.Net.Http.Formatting.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.WebHost.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\EntityFramework.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\EntityFramework.SqlServer.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Google.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\obj\Debug\IntegratedJobPortal.csprojResolveAssemblyReference.cache
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\obj\Debug\IntegratedJobPortal.dll
+E:\Mukesh Data\Work\Pyramid\IntegratedJobPortal\IntegratedJobPortal\obj\Debug\IntegratedJobPortal.pdb
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\csc.exe
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\System.Collections.Immutable.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\System.Reflection.Metadata.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\vbc.exe
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\VBCSCompiler.exe
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\ApplicationInsights.config
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\VBCSCompiler.exe.config
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\IntegratedJobPortal.dll.config
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\IntegratedJobPortal.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\IntegratedJobPortal.pdb
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Antlr3.Runtime.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\EntityFramework.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\EntityFramework.SqlServer.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.DependencyCollector.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.Web.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.WindowsServer.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.ApplicationInsights.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Google.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Web.Infrastructure.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Newtonsoft.Json.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Owin.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Net.Http.Formatting.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Helpers.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.WebHost.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Mvc.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Optimization.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Razor.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.Deployment.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.Razor.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\WebGrease.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.DependencyCollector.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.Web.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.WindowsServer.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.ApplicationInsights.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Helpers.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Mvc.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Optimization.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Razor.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.Deployment.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.Razor.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Antlr3.Runtime.pdb
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Newtonsoft.Json.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Net.Http.Formatting.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.WebHost.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\EntityFramework.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\EntityFramework.SqlServer.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Google.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\obj\Debug\IntegratedJobPortal.csprojResolveAssemblyReference.cache
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\obj\Debug\IntegratedJobPortal.dll
+E:\Mukesh Data\Work\Pyramid\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\obj\Debug\IntegratedJobPortal.pdb
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\csc.exe
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\vbc.exe
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\VBCSCompiler.exe
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\ApplicationInsights.config
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\IntegratedJobPortal.dll.config
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\IntegratedJobPortal.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\IntegratedJobPortal.pdb
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Antlr3.Runtime.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\EntityFramework.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\EntityFramework.SqlServer.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.DependencyCollector.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.Web.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.WindowsServer.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.ApplicationInsights.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Google.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Newtonsoft.Json.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Owin.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Net.Http.Formatting.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Helpers.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.WebHost.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Mvc.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Optimization.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Razor.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.Deployment.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.Razor.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\WebGrease.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.DependencyCollector.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.Web.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.WindowsServer.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.ApplicationInsights.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Helpers.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Mvc.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Optimization.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Razor.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.Deployment.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.Razor.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Antlr3.Runtime.pdb
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Newtonsoft.Json.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Net.Http.Formatting.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.WebHost.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\EntityFramework.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\EntityFramework.SqlServer.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Google.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\obj\Debug\IntegratedJobPortal.csprojResolveAssemblyReference.cache
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\obj\Debug\IntegratedJobPortal.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\obj\Debug\IntegratedJobPortal.pdb
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Cors.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.Cors.dll
+D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.Cors.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\ApplicationInsights.config
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\csc.exe
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\vbc.exe
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\VBCSCompiler.exe
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\IntegratedJobPortal.dll.config
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\IntegratedJobPortal.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\IntegratedJobPortal.pdb
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Antlr3.Runtime.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\EntityFramework.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\EntityFramework.SqlServer.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.DependencyCollector.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.Web.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.WindowsServer.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.ApplicationInsights.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Google.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Newtonsoft.Json.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Owin.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Net.Http.Formatting.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Cors.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Helpers.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.Cors.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.WebHost.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Mvc.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Optimization.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Razor.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.Deployment.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.Razor.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\WebGrease.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.DependencyCollector.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.Web.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.WindowsServer.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.ApplicationInsights.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Net.Http.Formatting.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.Cors.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Helpers.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Mvc.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Optimization.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Razor.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.Deployment.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.Razor.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Antlr3.Runtime.pdb
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Newtonsoft.Json.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.WebHost.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\EntityFramework.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\EntityFramework.SqlServer.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Google.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\obj\Debug\IntegratedJobPortal.csprojResolveAssemblyReference.cache
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\obj\Debug\IntegratedJobPortal.dll
+D:\Work\TFS\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\obj\Debug\IntegratedJobPortal.pdb
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\ApplicationInsights.config
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\csc.exe
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\vbc.exe
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\VBCSCompiler.exe
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\IntegratedJobPortal.dll.config
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\IntegratedJobPortal.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\IntegratedJobPortal.pdb
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Antlr3.Runtime.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\EntityFramework.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\EntityFramework.SqlServer.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AI.Web.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Newtonsoft.Json.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Owin.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Net.Http.Formatting.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Cors.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Helpers.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Http.Cors.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Http.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Http.WebHost.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Mvc.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Optimization.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Razor.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.WebPages.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.WebPages.Razor.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\WebGrease.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AI.Web.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Net.Http.Formatting.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Http.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Http.Cors.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Helpers.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Mvc.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Optimization.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Razor.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.WebPages.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.WebPages.Razor.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Antlr3.Runtime.pdb
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Newtonsoft.Json.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Http.WebHost.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\EntityFramework.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\EntityFramework.SqlServer.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\obj\Debug\IntegratedJobPortal.csprojResolveAssemblyReference.cache
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\obj\Debug\IntegratedJobPortal.dll
+C:\Projects\IntegratedJobPortal- 2\IntegratedJobPortal\obj\Debug\IntegratedJobPortal.pdb
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\ApplicationInsights.config
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\csc.exe
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\vbc.exe
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\IntegratedJobPortal.dll.config
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\IntegratedJobPortal.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\IntegratedJobPortal.pdb
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Antlr3.Runtime.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Dapper.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\EntityFramework.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AI.Web.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Newtonsoft.Json.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Owin.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Cors.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Helpers.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Http.Cors.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Http.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Mvc.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Optimization.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Razor.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.WebPages.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\WebGrease.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Dapper.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AI.Web.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Http.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Http.Cors.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Helpers.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Mvc.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Optimization.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Razor.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.WebPages.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Antlr3.Runtime.pdb
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Newtonsoft.Json.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\EntityFramework.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\obj\Debug\IntegratedJobPortal.csprojResolveAssemblyReference.cache
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\obj\Debug\IntegratedJobPortal.dll
+C:\Users\shivamp\Desktop\New folder\IntegratedJobPortal- 2\IntegratedJobPortal\obj\Debug\IntegratedJobPortal.pdb
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\ApplicationInsights.config
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\csc.exe
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\vbc.exe
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\IntegratedJobPortal.dll.config
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\IntegratedJobPortal.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\IntegratedJobPortal.pdb
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Antlr3.Runtime.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Dapper.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\EntityFramework.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.Web.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Newtonsoft.Json.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Owin.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Net.Http.Formatting.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Cors.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Helpers.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.Cors.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.WebHost.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Mvc.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Optimization.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Razor.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\WebGrease.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Dapper.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.Web.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Net.Http.Formatting.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.Cors.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Helpers.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Mvc.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Optimization.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Razor.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Antlr3.Runtime.pdb
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Newtonsoft.Json.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\System.Web.Http.WebHost.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\EntityFramework.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\EntityFramework.SqlServer.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\obj\Debug\IntegratedJobPortal.csprojResolveAssemblyReference.cache
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\obj\Debug\IntegratedJobPortal.dll
+C:\Users\shivamp\Desktop\New folder (2)\IntegratedJobPortal\IntegratedJobPortal\obj\Debug\IntegratedJobPortal.pdb

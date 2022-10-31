@@ -1,0 +1,42 @@
+# See http:/help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+/IntegratedJobPortal/app/dist
+/IntegratedJobPortal/app/tmp
+/IntegratedJobPortal/app/out-tsc
+/IntegratedJobPortal/app/bazel-out
+
+# Node
+/IntegratedJobPortal/app/node_modules
+/IntegratedJobPortal/app/npm-debug.log
+/IntegratedJobPortal/app/yarn-error.log
+
+# IDEs and editors
+/IntegratedJobPortal/app/.idea/
+/IntegratedJobPortal/app/.project
+/IntegratedJobPortal/app/.classpath
+/IntegratedJobPortal/app/.c9/
+/IntegratedJobPortal/app/*.launch
+/IntegratedJobPortal/app/.settings/
+/IntegratedJobPortal/app/*.sublime-workspace
+
+# Visual Studio Code
+/IntegratedJobPortal/app/.vscode/*
+/IntegratedJobPortal/app/!.vscode/settings.json
+/IntegratedJobPortal/app/!.vscode/tasks.json
+/IntegratedJobPortal/app/!.vscode/launch.json
+/IntegratedJobPortal/app/!.vscode/extensions.json
+/IntegratedJobPortal/app/.history/*
+
+# Miscellaneous
+/IntegratedJobPortal/app/.angular/cache
+/IntegratedJobPortal/app/.sass-cache/
+/IntegratedJobPortal/app/connect.lock
+/IntegratedJobPortal/app/coverage
+/IntegratedJobPortal/app/libpeerconnection.log
+/IntegratedJobPortal/app/testem.log
+/IntegratedJobPortal/app/typings
+
+# System files
+/IntegratedJobPortal/app/.DS_Store
+/IntegratedJobPortal/app/Thumbs.db

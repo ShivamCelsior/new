@@ -1,0 +1,92 @@
+<IJP>
+  <error>
+    <errorMsg>Input string was not in a correct format.</errorMsg>
+    <stackTrace>   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer&amp; number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at IntegratedJobPortal.Common.DBLib.GetPortalCredentials(Int32 UserId, Int32 SiteId, Int32 GroupId, Int32 AllocatedTime, String IPAddress) in D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\Common\DBLib.cs:line 338</stackTrace>
+    <module>DBLib</module>
+    <method>GetUserIDandPassword</method>
+    <dateTime>29-07-2022 13:30:00</dateTime>
+  </error>
+  <error>
+    <errorMsg>Input string was not in a correct format.</errorMsg>
+    <stackTrace>   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer&amp; number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at IntegratedJobPortal.Common.DBLib.GetPortalCredentials(Int32 UserId, Int32 SiteId, Int32 GroupId, Int32 AllocatedTime, String IPAddress) in D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\Common\DBLib.cs:line 338</stackTrace>
+    <module>DBLib</module>
+    <method>GetUserIDandPassword</method>
+    <dateTime>29-07-2022 13:30:41</dateTime>
+  </error>
+  <error>
+    <errorMsg>Input string was not in a correct format.</errorMsg>
+    <stackTrace>   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer&amp; number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at IntegratedJobPortal.Common.DBLib.GetPortalCredentials(Int32 UserId, Int32 SiteId, Int32 GroupId, Int32 AllocatedTime, String IPAddress) in D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\Common\DBLib.cs:line 338</stackTrace>
+    <module>DBLib</module>
+    <method>GetUserIDandPassword</method>
+    <dateTime>29-07-2022 13:31:19</dateTime>
+  </error>
+  <error>
+    <errorMsg>Input string was not in a correct format.</errorMsg>
+    <stackTrace>   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer&amp; number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at IntegratedJobPortal.Common.DBLib.GetPortalCredentials(Int32 UserId, Int32 SiteId, Int32 GroupId, Int32 AllocatedTime, String IPAddress) in D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\Common\DBLib.cs:line 338</stackTrace>
+    <module>DBLib</module>
+    <method>GetUserIDandPassword</method>
+    <dateTime>29-07-2022 13:32:10</dateTime>
+  </error>
+  <error>
+    <errorMsg>Input string was not in a correct format.</errorMsg>
+    <stackTrace>   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer&amp; number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at IntegratedJobPortal.Common.DBLib.GetPortalCredentials(Int32 UserId, Int32 SiteId, Int32 GroupId, Int32 AllocatedTime, String IPAddress) in D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\Common\DBLib.cs:line 338</stackTrace>
+    <module>DBLib</module>
+    <method>GetUserIDandPassword</method>
+    <dateTime>29-07-2022 13:32:45</dateTime>
+  </error>
+  <error>
+    <errorMsg>Input string was not in a correct format.</errorMsg>
+    <stackTrace>   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer&amp; number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at IntegratedJobPortal.Common.DBLib.GetPortalCredentials(Int32 UserId, Int32 SiteId, Int32 GroupId, Int32 AllocatedTime, String IPAddress) in D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\Common\DBLib.cs:line 338</stackTrace>
+    <module>DBLib</module>
+    <method>GetUserIDandPassword</method>
+    <dateTime>29-07-2022 15:22:16</dateTime>
+  </error>
+  <error>
+    <errorMsg>Input string was not in a correct format.</errorMsg>
+    <stackTrace>   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer&amp; number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at IntegratedJobPortal.Common.DBLib.GetPortalCredentials(Int32 UserId, Int32 SiteId, Int32 GroupId, Int32 AllocatedTime, String IPAddress) in D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\Common\DBLib.cs:line 338</stackTrace>
+    <module>DBLib</module>
+    <method>GetUserIDandPassword</method>
+    <dateTime>29-07-2022 15:24:56</dateTime>
+  </error>
+  <error>
+    <errorMsg>Input string was not in a correct format.</errorMsg>
+    <stackTrace>   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer&amp; number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at IntegratedJobPortal.Common.DBLib.GetPortalCredentials(Int32 UserId, Int32 SiteId, Int32 GroupId, Int32 AllocatedTime, String IPAddress) in D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\Common\DBLib.cs:line 338</stackTrace>
+    <module>DBLib</module>
+    <method>GetUserIDandPassword</method>
+    <dateTime>29-07-2022 15:26:01</dateTime>
+  </error>
+  <error>
+    <errorMsg>Input string was not in a correct format.</errorMsg>
+    <stackTrace>   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer&amp; number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at IntegratedJobPortal.Common.DBLib.GetPortalCredentials(Int32 UserId, Int32 SiteId, Int32 GroupId, Int32 AllocatedTime, String IPAddress) in D:\Work\BD\IJP\Development\IntegratedJobPortal\IntegratedJobPortal\Common\DBLib.cs:line 338</stackTrace>
+    <module>DBLib</module>
+    <method>GetUserIDandPassword</method>
+    <dateTime>29-07-2022 15:27:01</dateTime>
+  </error>
+</IJP>
